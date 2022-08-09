@@ -1,0 +1,11 @@
+{
+    "name": "Undefined.SolanaCanoeUnitySdk.Tests",
+    "references": [
+        "Undefined.SolanaCanoeUnitySdk"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

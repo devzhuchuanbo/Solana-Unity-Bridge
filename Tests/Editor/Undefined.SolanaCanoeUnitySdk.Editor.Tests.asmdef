@@ -1,0 +1,14 @@
+{
+    "name": "Undefined.SolanaCanoeUnitySdk.Editor.Tests",
+    "references": [
+        "Undefined.SolanaCanoeUnitySdk.Editor",
+        "Undefined.SolanaCanoeUnitySdk"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
